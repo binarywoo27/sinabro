@@ -85,7 +85,7 @@
 ### 👀 시나브로 서비스 화면
 <h3> 수강자 화면 <h3>
 <p> 회원가입 및 로그인 </p>
-<img src="/uploads/5077396214b6e84f594f35969f243a30/첫페이지.PNG" width="60%"> 
+<img src="/imgs/첫페이지.PNG" width="60%"> 
 <img src="/uploads/7d269376db5b6ff48eb30ed67740f65c/회원가입1.PNG" width="60%"> 
 <img src="/uploads/a44cf3ede3ee17f1770eaec72ef47b7d/회원가입2.PNG" width="60%"> 
 <img src="/uploads/0134dfe9d711365e461226cb0d2840ea/회원가입3.jpg" width="60%"> 
